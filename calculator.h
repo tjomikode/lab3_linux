@@ -10,7 +10,7 @@ class Calculator
 =======
         int Add (int, int);
         int Mul (double, double);
-// MY CHANGES ACCORDING TO THE LAB3 TASK
+//MY CHANGES ACCORDING TO THE LAB3 TASK
 // ADDED DIVISION OPERATION
 // FOR INTEGER AND DOUBLE DATA TYPES
 // int Div(int, int);
